@@ -1,1 +1,3 @@
 exho School
+#!/bin/bash
+echo "School"
